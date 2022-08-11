@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jorgeortegalopez
-- 👀 I’m interested in making games in Unity
+- 👀 I’m interested in using Unity, Android Studio, Python, ...
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: jorgerortegalopez@gmail.com
 
