@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeortegalopez
 - 👀 I’m interested in using Unity, Android Studio, Python, ...
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently using Visual Studio and Unity to make apps
 - 📫 How to reach me: jorgerortegalopez@gmail.com
 
 <!---
